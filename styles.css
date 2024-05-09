@@ -1,0 +1,16 @@
+.fondo{
+    background-color: cornflowerblue;
+    margin: 10px;
+}
+
+.titulo{
+    font-family: 'Lucida Sans Unicode';
+    color: rgb(186, 186, 186);
+    text-align: center;
+}
+
+.descripcion{
+    margin-left: 10%;
+    text-align: justify;
+    margin-right: 10%;
+}
